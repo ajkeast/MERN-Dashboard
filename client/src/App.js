@@ -1,4 +1,4 @@
-// Resume @ https://youtu.be/0cPCMIuDk2I?t=4288
+// Resume @ https://yountu.be/0cPCMIuDk2I?t=4288
 
 import { CssBaseline, ThemeProvider } from "@mui/material";
 import { createTheme } from "@mui/material/styles";

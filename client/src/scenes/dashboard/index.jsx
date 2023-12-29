@@ -1,5 +1,5 @@
 import React from 'react'
-import AnimalTable from '../../components/Table.jsx'
+import AnimalTable from 'components/Table'
 
 let data = [
   {
