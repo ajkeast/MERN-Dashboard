@@ -170,7 +170,7 @@ const Sidebar = ({
                         color:
                           active === lcText
                             ? theme.palette.primary[800]
-                            : theme.palette.secondary[100],
+                            : theme.palette.secondary[50],
                       }}
                     >
                       <ListItemIcon
@@ -179,7 +179,7 @@ const Sidebar = ({
                           color:
                             active === lcText
                               ? theme.palette.primary[800]
-                              : theme.palette.secondary[200],
+                              : theme.palette.secondary[50],
                         }}
                       >
                         {icon}
